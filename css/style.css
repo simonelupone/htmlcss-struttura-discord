@@ -238,3 +238,15 @@ header {
     height: 100px;
     background-color: #add8e7;
 }
+
+.hero {
+    width: 100%;
+    min-height: 500px;
+    background: #00018b;
+}
+
+.inside-square {
+    height: 400px;
+    width: 1000px;
+    background: #ef82ed;
+}
