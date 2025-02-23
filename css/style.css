@@ -250,3 +250,31 @@ header {
     width: 1000px;
     background: #ef82ed;
 }
+
+.section {
+    min-height: 600px;
+    background-color: #d3d3d3;
+}
+
+.section:nth-of-type(odd) {
+    background: #FFF;
+}
+
+.box {
+    height: 500px;
+}
+
+.big-box {
+    margin-block: 50px;
+    height: 900px;
+    background-color: #218b21;
+}
+
+.blue {
+    background: #1e90ff;
+
+}
+
+.pink {
+    background: #ffc0ca;
+}
