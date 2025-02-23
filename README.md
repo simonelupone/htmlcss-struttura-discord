@@ -24,3 +24,7 @@
 ✅ **Creare i blocchi colorati** per avere un'idea chiara della disposizione degli elementi.  
 ✅ **Non soffermarsi sui dettagli inizialmente**, ma concentrarsi sulla struttura.  
 ✅ **Testare ogni sezione** prima di passare alla successiva.
+
+## Anteprima
+
+[-> PREVIEW <-](https://simonelupone.github.io/htmlcss-struttura-discord/)
